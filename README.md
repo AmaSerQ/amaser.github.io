@@ -1,4 +1,4 @@
-# amaser.github.io
+# This is a test site
 This is my first attempt at creating a Github Page.
 I want to use it to document my own process of learning the front-end, and as for why I used Github Page.
 I guess I thought it was clean enough and reliable enough.
